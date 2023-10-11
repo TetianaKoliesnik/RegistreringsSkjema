@@ -23,10 +23,19 @@ body {
 
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
+
+	text-align: center;
+
+	
 }
 
 .imageTea {
 	width: 80%;
 	max-width: 10em;
 	border: 1px dashed black;
+}
+
+button{
+	background-color: #FBB02D;
 }
