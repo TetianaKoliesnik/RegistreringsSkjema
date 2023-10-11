@@ -1,0 +1,32 @@
+:root {
+	font-family: 'Raleway', sans-serif;
+}
+
+body {
+	background-color: #7CB518;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	border: 1px dashed black;
+
+
+}
+
+.panel {
+	background-color: #F3DE2C;
+	border-radius: 10px;
+	padding: 10px 25px;
+	width: 50%;
+	max-width: 960px;
+	border: 3px dashed black;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.imageTea {
+	width: 80%;
+	max-width: 10em;
+	border: 1px dashed black;
+}
