@@ -4,3 +4,11 @@
 	margin: 0;
 	border: 0;
 }
+
+button{
+	font: inherit;
+	color: inherit;
+	background: transparent;
+	cursor: pointer;
+	touch-action: manipulation;
+}
