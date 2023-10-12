@@ -11,4 +11,5 @@ button{
 	background: transparent;
 	cursor: pointer;
 	touch-action: manipulation;
+	border: none;
 }
